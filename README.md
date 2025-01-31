@@ -1,5 +1,7 @@
-## Hi there 👋
 
+Hey! 
+
+I'm studying computer science @ georgia tech. My interests lie in compilers, operating systems, and high performance computer architecture. I'm currently exploring these interests through the lense of high frequency trading, where I aim to optimize execution and decision making algorithms.
 <!--
 **coledi/coledi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
